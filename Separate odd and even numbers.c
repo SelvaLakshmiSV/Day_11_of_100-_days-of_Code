@@ -6,9 +6,6 @@ void main()
     int i,j=0,k=0,n;
 	
 	
-       printf("\n\nSeparate odd and even integers in separate arrays:\n");
-       printf("------------------------------------------------------\n");	
-
        printf("Input the number of elements to be stored in the array :");
        scanf("%d",&n);
    
